@@ -16,8 +16,8 @@
 title:             Redacre
 email:             redacre@example.com
 description:       "Just Another Jekyll Law Blog"
-baseurl:           "" # the subpath of your site, e.g. /blog
-url:               "localhost" # the base hostname & protocol for your site
+baseurl:           "/redacre" # the subpath of your site, e.g. /blog
+url:               "https://dominicmauro.github.io" # the base hostname & protocol for your site
 permalink:         /post/:title/
 author:            Hadley V. Baxendale, Esq.
 
